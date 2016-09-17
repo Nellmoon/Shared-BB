@@ -5,7 +5,7 @@
 	
 
 //FUNCTION DECLARATIONS
-
+float
 
 int main(int argc, char **argv){  	
 
